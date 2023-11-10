@@ -1,0 +1,7 @@
+.dot::before {
+    content: '• ';
+    color: rgb(168, 168, 168);
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}
